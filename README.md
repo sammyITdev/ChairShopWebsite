@@ -2,7 +2,7 @@
 Description: In a small shop in the heart of Lisbon, we spend our days relentlessly perfecting the chair. The result is a perfect blend of beauty and comfort, that will have a lasting impact on your health.
 
 ## Deployment
-Here is the deployed website: https://casual-lisbon-chair-shop.netlify.app/#
+Here is the deployed website: <a href="https://casual-lisbon-chair-shop.netlify.app/#">Lisbon Chair Shop</a>
 
 
 ## Built With 
@@ -43,5 +43,5 @@ SOFTWARE.
 ## Acknowledgements
 
 * Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
-* Here is the website at Udemy ➡️ https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512022#overview
+* <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512022#overview"> Here is the website at Udemy ➡️</a>
 * Netlify
